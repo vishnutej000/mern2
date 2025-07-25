@@ -1,0 +1,8 @@
+.greeting-box {
+  background-color: #000000;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 20px auto;
+  width: 300px;
+}

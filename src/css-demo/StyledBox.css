@@ -1,0 +1,8 @@
+.styled-box {
+  border: 2px dashed #ff7f50;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 10px;
+  background-color: #fff8f0;
+}
